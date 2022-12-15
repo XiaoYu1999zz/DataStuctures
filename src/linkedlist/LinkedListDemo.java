@@ -39,6 +39,7 @@ public class LinkedListDemo {
         linkedList.List();
         linkedList.List();
         linkedList.List();
+        System.out.println("1111111");
         linkedList.getLastNode(1);
 
 
