@@ -36,7 +36,8 @@ public class LinkedListDemo {
         linkedList.addOrderBy(heroNode3);
         linkedList.addOrderBy(heroNode5);
 
-
+        linkedList.List();
+        linkedList.List();
         linkedList.List();
         linkedList.getLastNode(1);
 
